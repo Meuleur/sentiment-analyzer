@@ -7,5 +7,9 @@ scikit-learn>=1.4
 datasets>=2.18
 huggingface-hub>=0.20
 
+# Tokenization
+transformers>=4.40
+sentencepiece>=0.2
+
 # Tests / qualité
 pytest>=8.0
