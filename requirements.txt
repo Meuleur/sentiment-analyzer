@@ -3,5 +3,9 @@ numpy>=1.26
 pandas>=2.1
 scikit-learn>=1.4
 
+# Data
+datasets>=2.18
+huggingface-hub>=0.20
+
 # Tests / qualité
 pytest>=8.0
