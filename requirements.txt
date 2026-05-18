@@ -1,0 +1,7 @@
+# Core
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+
+# Tests / qualité
+pytest>=8.0
